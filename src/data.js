@@ -23,9 +23,9 @@ export const profile = {
 
 export const stats = [
   { value: 8.82, decimals: 2, suffix: '', label: 'CGPA, B.Tech IT' },
-  { value: 80.8, decimals: 1, suffix: '', label: '12th' },
-  { value: 94.2, decimals: 1, suffix: '', label: 'JEE MAINS 2024' },
-  { value: 96.6, decimals: 1, suffix: '', label: 'MHTCET PCM 2024' },
+  { value: 80.8, decimals: 1, suffix: '%', label: '12th' },
+  { value: 94.2, decimals: 1, suffix: '%', label: 'JEE MAINS 2024' },
+  { value: 96.6, decimals: 1, suffix: '%', label: 'MHTCET PCM 2024' },
 ]
 
 export const education = [
