@@ -25,7 +25,7 @@ export default function Nav() {
   return (
     <header className={`nav ${scrolled ? 'nav--solid' : ''}`}>
       <a href="#top" className="nav__logo" onClick={() => setOpen(false)}>
-        AS<span>/</span>
+        PORTFOLIO<span>/</span>
       </a>
 
       <nav className={`nav__links ${open ? 'open' : ''}`} aria-label="Primary">

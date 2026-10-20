@@ -33,8 +33,8 @@ export default function About() {
           <Reveal delay={80}>
             <p className="lead">
               I'm <b>Akshat</b>, a B.Tech Information Technology student in Pune. My work sits
-              across three lanes: <b className="red">MERN</b> web apps, <b className="red">Java</b>{' '}
-              backend, and <b className="red">AI / ML</b>.
+              across three lanes: <b className="red">MERN</b> Web Apps, <b className="red">Java</b>{' '}
+              Backend, and <b className="red">AI / ML</b>.
             </p>
             <p>
               I build full-stack products end to end, from the React interface to the API and the
